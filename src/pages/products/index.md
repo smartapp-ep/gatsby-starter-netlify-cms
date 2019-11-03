@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: ERP Products
+title: ERP Products & Services
 image: /img/jumbotron.jpg
 heading: Odoo
 description: >-
