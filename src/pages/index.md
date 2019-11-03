@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Local Friendly ERP Consultants
 image: /img/sydney.webp
-heading: Local Friendly Consultants
+heading: Simple Steps for ERP
 subheading: Support SME Business in Sydney - 50% cost saving
 mainpitch:
   title: Why 50% cheaper?
@@ -11,9 +11,7 @@ mainpitch:
 
     We have one thing in common: we love consulting yet it's not main source of
     income.
-description: >-
-  We are in Sydney and serve local SME business in the comfort of not leaving
-  town. so not stretched for long trips
+description: 'Follow these steps to get your ERP up and running fast:'
 intro:
   blurbs:
     - image: /img/knowing.jpg
