@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: ERP Products
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Bitrix24
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -45,7 +44,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Odoo
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
@@ -63,15 +62,15 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      Fast & reliable, for a fraction of fees quoted from other consultation
+      firms. Unbelievable! 
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Highly recommended! Though I don't really wish my competitors go for
+      SydneyConsultants... 
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Implementation & Support
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
