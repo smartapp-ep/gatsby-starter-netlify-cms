@@ -1,13 +1,15 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Is Odoo still the same Odoo?
+date: 2017-12-17T15:04:00.000Z
+description: >-
+  Open ERP was rebranded to Odoo; split into EE (Enterprise Edition) and CE
+  (Community Edition). Is it still as friendly to SME as before? Is it still
+  affordable to SME as before? 
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
-  - flavor
-  - tasting
+  - Odoo;ERP;Open Source
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
