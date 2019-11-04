@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Sydney Consultants',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Local friendly consultants helping Sydney SME businesses to implement ERP systems, business management & automations, 50% cost saving! Odoo Enterprise Edition or Community Edition, or Bitrix24; also provide ongoing support, solution customization or developement.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
