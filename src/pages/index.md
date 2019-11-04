@@ -18,7 +18,7 @@ intro:
       text: >
         Step 1 Knowing: A dedicated consultant studies your business &
         requirements; meanwhile introduce ERP's capability to you
-    - image: /img/implementing3.jpg
+    - image: /img/implementing4.jpg
       text: >
         Step 2 Implement: We design & implement, customize & develop when
         required
