@@ -9,8 +9,8 @@ mainpitch:
   description: >
     Some of us have retired, some work as part-timers, some as freelancers...
 
-    We have one thing in common: we love consulting yet it's not main source of
-    income.
+    We have one thing in common: we love consulting yet do not rely on it as
+    main source of income.
 description: 'Follow these steps to get your ERP up and running fast:'
 intro:
   blurbs:
@@ -18,7 +18,7 @@ intro:
       text: >
         Step 1 Knowing: A dedicated consultant studies your business &
         requirements; meanwhile introduce ERP's capability to you
-    - image: /img/implementing.jpg
+    - image: /img/implementing3.jpg
       text: >
         Step 2 Implement: We design & implement, customize & develop when
         required
