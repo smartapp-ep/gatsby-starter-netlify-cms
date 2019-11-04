@@ -9,7 +9,11 @@ description: >-
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 tags:
-  - Odoo;ERP;Open Source
+  - Odoo
+  - ERP
+  - Open Source
+  - SME
+  - Enterprise
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
