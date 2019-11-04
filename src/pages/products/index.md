@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: ERP Products & Services
-image: /img/jumbotron.jpg
+image: /img/large-meeting-room.jpg
 heading: Odoo
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
