@@ -6,10 +6,14 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-gtag`,
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
         trackingId: "G-F241P933KH",
+        // Puts tracking script in the head instead of the body
+        // head: false,
+        // enable ip anonymization
+        // anonymize: true,        
       },
     },    
     'gatsby-plugin-react-helmet',
