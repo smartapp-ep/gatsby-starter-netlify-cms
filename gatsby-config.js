@@ -5,6 +5,13 @@ module.exports = {
       'Local friendly consultants helping Sydney SME businesses to implement ERP systems, business management & automations, 50% cost saving! Odoo Enterprise Edition or Community Edition, or Bitrix24; also provide ongoing support, solution customization or developement.',
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "G-F241P933KH",
+      },
+    },    
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
